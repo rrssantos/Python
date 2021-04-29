@@ -1,0 +1,5 @@
+print("Ola")
+print("Boa Noite", end = " ")
+print("tudo", end = "\t")
+print("bem?", end = "***")
+print("espero que sim!", end = "fim")
